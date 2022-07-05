@@ -1,0 +1,8 @@
+.box1{
+    padding:100px 0;
+    width:300px;
+    text-align: center;
+    background-color: rgb(64, 96, 126);
+    margin: 20px;
+    display: inline-block;
+}
